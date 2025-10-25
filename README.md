@@ -32,6 +32,11 @@
 
 ---
 
+### 🏅 Holopin Badges
+[![@shiwanskyadav's Holopin board](https://holopin.io/api/user/board?user=shiwanskyadav)](https://holopin.io/@shiwanskyadav)
+
+---
+
 ### 📌 Featured Projects  
 - 🛒 **Indo Kart** – E-commerce website built with HTML, CSS & JS  
 - 🌤 **Weather App** – Real-time weather updates using API  
