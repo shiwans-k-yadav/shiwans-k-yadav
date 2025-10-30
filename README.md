@@ -11,9 +11,11 @@
 ---
 
 ### 💻 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shiwans-k-yadav&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
-  ![GitHub Streak](https://streak-stats.demolab.com?user=shiwans-k-yadav&theme=tokyonight)
+<p align="center">  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shiwans-k-yadav&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=shiwans-k-yadav&theme=tokyonight)
+
 </p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiwans-k-yadav&layout=compact&theme=tokyonight" />
 
