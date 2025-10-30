@@ -16,6 +16,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shiwans-k-yadav&theme=tokyonight" alt="GitHub Streak" height="165"/>
 </p>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiwans-k-yadav&layout=compact&theme=tokyonight" />
+
+
 ---
 
 ### 🌐 Connect with Me  
@@ -42,11 +45,6 @@
 
 ### 🏅 Holopin Badges
 [![@shiwanskyadav's Holopin board](https://holopin.io/api/user/board?user=shiwanskyadav)](https://holopin.io/@shiwanskyadav)
-
----
-
-###
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiwans-k-yadav&layout=compact&theme=tokyonight" />
 
 ---
 ### 📌 Featured Projects  
