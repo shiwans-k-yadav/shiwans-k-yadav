@@ -45,8 +45,12 @@
 
 ---
 
+###
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiwans-k-yadav&layout=compact&theme=tokyonight" />
+
+---
 ### 📌 Featured Projects  
-- 🛒 **Indo Kart** – E-commerce website built with HTML, CSS & JS  
+- 🛒 **Portfolio Website** – Resume website built with HTML, TailWind.CSS  
 - 🌤 **Weather App** – Real-time weather updates using API  
 - 🥗 **RecipeTalk** – Recipe sharing platform (HTML + CSS)  
 
