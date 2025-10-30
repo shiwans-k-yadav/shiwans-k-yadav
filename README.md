@@ -46,7 +46,7 @@
 
 ---
 ### 📌 Featured Projects  
-- 🛒 **Portfolio Website** – Resume website built with HTML, TailWind.CSS  
+- 🛒 **Portfolio Website** – Resume website built with HTML, Tailwind CSS  
 - 🌤 **Weather App** – Real-time weather updates using API  
 - 🥗 **RecipeTalk** – Recipe sharing platform (HTML + CSS)  
 
