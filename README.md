@@ -14,9 +14,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shiwans-k-yadav&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
   <img src="https://streak-stats.demolab.com?user=shiwans-k-yadav&theme=tokyonight" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiwans-k-yadav&layout=compact&theme=tokyonight" />
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiwans-k-yadav&layout=compact&theme=tokyonight" />
 
 
 ---
