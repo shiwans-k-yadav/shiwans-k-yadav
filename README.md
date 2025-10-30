@@ -5,8 +5,16 @@
 ### 📊 LeetCode Progress  
 ![LeetCode Stats](https://leetcard.jacoblin.cool/_yadav_sk_?theme=dark&font=Nunito&ext=contest)  
 🔗 [View my LeetCode Profile](https://leetcode.com/u/_yadav_sk_/)  
-- [CodeStudio (Coding Ninjas)](https://www.naukri.com/code360/profile/cb1ea61a-987e-47ef-886e-bf52a2a637a1) → secondary problem solving platform 
-- [Codolio](https://codolio.com/profile/Shiwans_1771) → all my coding profiles in one place 
+- [CodeStudio (Coding Ninjas)](https://www.naukri.com/code360/profile/cb1ea61a-987e-47ef-886e-bf52a2a637a1) → secondary problem solving platform  
+- [Codolio](https://codolio.com/profile/Shiwans_1771) → all my coding profiles in one place  
+
+---
+
+### 💻 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shiwans-k-yadav&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shiwans-k-yadav&theme=tokyonight" alt="GitHub Streak" height="165"/>
+</p>
 
 ---
 
@@ -44,4 +52,4 @@
 
 ---
 
-⭐️ *“You are allowed to take rest, you are allowed to fail but you are not allowed to quit.”*  
+⭐️ *“You are allowed to take rest, you are allowed to fail but you are not allowed to quit.”*
